@@ -9,8 +9,7 @@ The link below will guide you in generating an SSH key and adding it to your
 GitHub account to make a connection. If you already have a key, follow the
 appropriate link to connect it to your GitHub:
 
-* [Connecting to GitHub]
-  (https://help.github.com/en/articles/connecting-to-github-with-ssh)
+* [Connecting to GitHub](https://help.github.com/en/articles/connecting-to-github-with-ssh)
 
 ### Clone the Repo
 
