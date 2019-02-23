@@ -86,7 +86,9 @@ branch. Now we can add the changes made to this branch to the master branch:
 
 ```
 git checkout master
-git pull origin learngit
+git pull origin master
+git merge learngit
+git push origin master
 ```
 
 10. Verify you have merged correctly. These are the basics to working with Git!
