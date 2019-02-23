@@ -37,7 +37,7 @@ git checkout learngit
 2. Next, make sure to have all the updated changes on this branch:
 
 ```
-git pull origin master
+git pull origin learngit 
 ```
 
 3. Now, you are ready to make changes to the "completed-names.txt" file! Open 
