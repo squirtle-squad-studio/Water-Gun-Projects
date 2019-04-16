@@ -2,7 +2,7 @@
 
 Simple Leetspeak Dictionary Generator for dictionary attacks
 
-How to use: 
+# How to use: 
 
 Assuming primary password list is stored in `dict.txt`,
 
