@@ -5,4 +5,4 @@ Small-scale projects aimed at learning specific technologies will be saved here
 ## Projects
 
 - LearnGit: Simple Git exercise for us to learn Git
-- shermanScript: Compilation of scripts written for Sherman..
+- shermanScripts: Compilation of scripts written for Sherman..
