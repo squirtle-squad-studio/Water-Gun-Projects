@@ -13,6 +13,7 @@
 - [ ] Functions & Methods
 
 ### WIP
+- [ ] Programming Style & Organization
 - [ ] Access Modifiers, Scopes
 - [ ] Objects
 - [ ] Object-Oriented Programming
