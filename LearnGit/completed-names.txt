@@ -7,3 +7,9 @@ List of members who have completed the LearnGit exercise
 
 bennyfungc
 DavidYeLuo
+<<<<<<< HEAD
+HermanChiu
+=======
+Stan's a beast
+Tony
+>>>>>>> 43fe1555b36a06ff6c807ecfc6e0708d9db82e32
