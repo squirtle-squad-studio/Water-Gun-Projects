@@ -8,3 +8,4 @@ List of members who have completed the LearnGit exercise
 bennyfungc
 DavidYeLuo
 Stan's a beast
+Tony
