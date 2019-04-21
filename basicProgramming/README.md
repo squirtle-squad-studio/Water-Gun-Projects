@@ -10,14 +10,14 @@
 - [x] Loops
 - [x] Arrays
 - [x] Nested Loops & 2D Arrays
-- [] Functions & Methods
+- [ ] Functions & Methods
 
 ### WIP
--[] Access Modifiers, Scopes
--[] Objects
--[] Object-Oriented Programming
--[] Recursion
--[] String Formatting
--[] Program Layout
--[] Libraries
--[] Debugging
+-[ ] Access Modifiers, Scopes
+-[ ] Objects
+-[ ] Object-Oriented Programming
+-[ ] Recursion
+-[ ] String Formatting
+-[ ] Program Layout
+-[ ] Libraries
+-[ ] Debugging
