@@ -13,11 +13,11 @@
 - [ ] Functions & Methods
 
 ### WIP
--[ ] Access Modifiers, Scopes
--[ ] Objects
--[ ] Object-Oriented Programming
--[ ] Recursion
--[ ] String Formatting
--[ ] Program Layout
--[ ] Libraries
--[ ] Debugging
+- [ ] Access Modifiers, Scopes
+- [ ] Objects
+- [ ] Object-Oriented Programming
+- [ ] Recursion
+- [ ] String Formatting
+- [ ] Program Layout
+- [ ] Libraries
+- [ ] Debugging
